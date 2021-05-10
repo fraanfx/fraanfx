@@ -10,9 +10,5 @@ You can click the Preview link to take a look at your changes.
 
 ![Fraanfx's GitHub stats](https://github-readme-stats.vercel.app/api?username=fraanfx&show_icons=true&theme=dark&show)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8theme=dark&show)]
 
-(https://github.com/fraanfx/github-readme-stats)
-  (https://github-readme-stats.vercel.app/api/pin/?username=fraanfx&repo=github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraanfx&layout=compact&theme=dark&show)](https://github.com/fraanfx/github-readme-stats)
-
-![Fran GitHub stats](https://github-readme-stats.vercel.app/api?username=fraanfx&theme=dark&show_icons=true)
