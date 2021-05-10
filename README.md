@@ -15,4 +15,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/fraanfx/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fraanfx&repo=github-readme-stats" />
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraanfx&layout=compact)](https://github.com/fraanfx/github-readme-stats)
 
