@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 (https://github.com/fraanfx/github-readme-stats)
   (https://github-readme-stats.vercel.app/api/pin/?username=fraanfx&repo=github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraanfx&layout=compact)](https://github.com/fraanfx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraanfx&layout=compact&theme=dark&show)](https://github.com/fraanfx/github-readme-stats)
 
 ![Fran GitHub stats](https://github-readme-stats.vercel.app/api?username=fraanfx&theme=dark&show_icons=true)
