@@ -7,7 +7,7 @@
 ![LogoJS](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png)
 ![LogoJS](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png)
 ![LogoJS](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png)
-![LogoJS](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/react/react.png)
+![LogoJS](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/nodejs/nodejs.png)
 
 fraanfx/fraanfx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
