@@ -4,6 +4,8 @@
  ## 💞️ I’m looking to collaborate on ...
  ## 📫 How to reach me ...
 
+![LogoJS](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png)
+![LogoJS](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png)
 ![LogoJS](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png)
 
 fraanfx/fraanfx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
