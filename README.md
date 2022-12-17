@@ -8,7 +8,7 @@
 
 ### For me as for Martin Leblanc: “A user interface is like a joke. If you have to explain it, it’s not that good”.. - Martin* Leblanc*
 
-## Checkout my deployed projects here: [Portfolio](https://fraanfx.github.io/) | [Design portfolio](https://franam95.wixsite.com/franam)
+## Checkout my deployed projects here: ![Portfolio](https://fraanfx.github.io/) | ![Design portfolio](https://franam95.wixsite.com/franam)
 
 
 
