@@ -1,7 +1,7 @@
  # 👋 Hi, I’m Fran
 
 <p align="center"->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C78FF7&width=435&lines=Front+End+Developer;UX+Designer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C78FF7&center=true&width=435&lines=Front+End+Developer;UX+Designer" alt="Typing SVG" /></a>
 </p>
 
  
