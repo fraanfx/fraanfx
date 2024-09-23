@@ -1,4 +1,9 @@
  # 👋 Hi, I’m Fran
+
+<p align="center"->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C78FF7&width=435&lines=Front+End+Developer;UX+Designer" alt="Typing SVG" />
+</p>
+
  
  ### Hello, my name is Fran :), I am a young front-end programmer, specialized in DCU (User Centered Design). I consider myself a proactive, dynamic, decisive, self-taught, multidisciplinary person with high communication skills.
 
@@ -31,3 +36,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=dark&show)
 
 <img src="https://komarev.com/ghpvc/?username=fraanfx&style=flat-square&color=blue" alt="Profile views"/>
+
+<!--  -->
